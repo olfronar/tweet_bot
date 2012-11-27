@@ -6,11 +6,11 @@ Created on 16.07.2012
 '''
 import tweepy
 
-consumer_key = "yrDfCXzYwXEs1Z7ObE4yiw"
-consumer_secret = "Am1Nn4Fr3asnksbyNhVlGG08vbCOMocSE9Vf8qLnn0"
-access_key="628298860-V4ANGxiMOz46NRLIWkF8rzBA9Wtt0J45xXEzCNdS"
-access_secret="HlSlj4ovDfYaUh4oTD7EC0UdHsspgDqrqBs6eu3tqSc"
-user = "ventilaptor"
+consumer_key = ""
+consumer_secret = ""
+access_key=""
+access_secret=""
+user = ""
 
 
 class TwitterApi(object):
